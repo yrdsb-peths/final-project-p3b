@@ -9,4 +9,4 @@ PURPOSE OF PROJECT:To play Snake
 VERSION or DATE:2022-01-24
 HOW TO START THIS PROJECT: Press Run
 AUTHORS: Frankie Lin
-USER INSTRUCTIONS: Green Snake Uses "W A S D" to move Blue Snake uses Arrow keys to move Collect Red Dots to increase your score!
+USER INSTRUCTIONS: use Arrow keys to move Collect Red Dots to increase your score avoid eating your tail and the wall
