@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Snake
+PURPOSE OF PROJECT:To play Snake
+VERSION or DATE:2022-01-24
+HOW TO START THIS PROJECT: Press Run
+AUTHORS: Frankie Lin
+USER INSTRUCTIONS: Green Snake Uses "W A S D" to move Blue Snake uses Arrow keys to move Collect Red Dots to increase your score!
