@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ Basic\ Snake\ Game\r\n\ @author\ Frankie\ Lin\ \r\n\ @version\ 2022-01-25\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=void\ act()
+numComments=3
